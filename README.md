@@ -1,6 +1,6 @@
 # My Gram 2 - GitHub User Search App
 
-My Gram 2 adalah aplikasi Android yang memungkinkan pengguna untuk mencari profil pengguna GitHub, melihat detail profil, serta menyimpan pengguna favorit. Proyek ini dikembangkan sebagai bagian dari tugas pengembangan aplikasi Android.
+My Gram 2 adalah aplikasi Android yang memungkinkan pengguna untuk mencari profil pengguna GitHub, melihat detail profil, serta menyimpan pengguna favorit. Proyek ini merupakan submission untuk kelas **Belajar Fundamental Aplikasi Android** dalam program **Bangkit Academy**.
 
 ## Tampilan Aplikasi
 
